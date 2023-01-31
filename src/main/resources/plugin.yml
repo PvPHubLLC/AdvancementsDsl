@@ -1,0 +1,6 @@
+main: co.pvphub.advancements.AdvancementsTest
+author: MattMX
+version: 1.0
+name: AdvancementsTest
+api-version: 1.15
+load: STARTUP
